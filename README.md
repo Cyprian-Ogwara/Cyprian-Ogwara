@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Cyprian**, a passionate **Data Analyst** with a background in **International Relations and Development Studies**.  
+I'm Cyprian, a passionate **Data Analyst** with a background in Internationa Relations and Development Studies.  
 I enjoy transforming raw data into meaningful insights that support smart decisions and positive change.  
 
 ---
@@ -37,7 +37,7 @@ I enjoy transforming raw data into meaningful insights that support smart decisi
 ---
 
 ### ⚡ Fun fact
-I love discovering patterns in everyday life — from football stats to community trends — because data is everywhere! ⚽📊  
+I enjoy finding insights in unexpected places — even a spreadsheet can surprise you.  
 
 ---
 
